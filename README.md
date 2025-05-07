@@ -86,7 +86,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/eritech98/kenya-wind-airports-maps.git
+git clone https://github.com/eritech98/kenya-wind-airports-map.git
 cd kenya-windmap-airports-maps
 ```
 
